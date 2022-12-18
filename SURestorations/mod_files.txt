@@ -1,1 +1,8 @@
+add disk/bb/#EXPOrb.ar.00
+add disk/bb/#EXPOrb.arl
+add SURestorations.dll
+add SURestorations.exp
+add SURestorations.lib
+add SURestorations.pdb
+add config.json
 add mod.ini
