@@ -33,6 +33,17 @@
       "DisplayName": "Restorations",
       "Elements": [
         {
+          "Name": "RingLife",
+          "Description": [
+            "Allows gaining 100 rings to give you an extra life once."
+          ],
+          "DisplayName": "100 Rings Gives Life Once",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
           "Name": "BDrift",
           "Description": [
             "Restores the ability to drift with the B button."
