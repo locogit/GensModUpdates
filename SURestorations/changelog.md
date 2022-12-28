@@ -1,3 +1,8 @@
+## SU Restorations v1.21
+- Fixed "Ring Energy Changes" Option
+- Removed Custom Animation from SonicRamp Archive (SONICRAMP NOT NEEDED FOR CHARACTER MODS)
+- Added Bobsleigh Tilting (WORKS WHEN ADDON GETS UPDATED)
+
 ## SU Restorations v1.2
 - Improved B Button Drift
 - Improved Crawl
