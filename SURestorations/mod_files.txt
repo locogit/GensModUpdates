@@ -1,3 +1,4 @@
+add disk/bb3/SonicRamp.ar.00
+add disk/bb3/SonicRamp.arl
 add SURestorations.dll
-add config.json
 add mod.ini
