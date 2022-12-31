@@ -1,4 +1,4 @@
-add disk/bb3/SonicRamp.ar.00
-add disk/bb3/SonicRamp.arl
+add config.json
+add sur_sweepkick.ini
 add SURestorations.dll
 add mod.ini
