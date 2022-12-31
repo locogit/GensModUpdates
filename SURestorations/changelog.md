@@ -1,3 +1,8 @@
+## SU Restorations v1.22
+- Added Minimum Paraloop Speed Check
+- Added Sweep Kick Light (sur_sweepkick.ini)
+- Mods can include their own sur_sweepkick.ini to change the light color, range, and speed it appears and the lifetime of the light
+
 ## SU Restorations v1.21
 - Fixed "Ring Energy Changes" Option
 - Removed Custom Animation from SonicRamp Archive (SONICRAMP NOT NEEDED FOR CHARACTER MODS)
