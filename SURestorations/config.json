@@ -1,0 +1,250 @@
+{
+  "Groups": [
+    {
+      "Name": "EXP",
+      "DisplayName": "EXP",
+      "Elements": [
+        {
+          "Name": "Max",
+          "Description": [
+            "If true, maxes out the exp level at all times."
+          ],
+          "DisplayName": "Max Stats",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": false
+        },
+        {
+          "Name": "Use",
+          "Description": [
+            "Toggles whether the EXP particles and UI are used, Only works with Unleashed HUD."
+          ],
+          "DisplayName": "Use EXP System",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        }
+      ]
+    },
+    {
+      "Name": "Restorations",
+      "DisplayName": "Restorations",
+      "Elements": [
+        {
+          "Name": "RingLife",
+          "Description": [
+            "Allows gaining 100 rings to give you an extra life once."
+          ],
+          "DisplayName": "100 Rings Gives Life Once",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "BDrift",
+          "Description": [
+            "Restores the ability to drift with the B button."
+          ],
+          "DisplayName": "B Button Drift",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "RunJump",
+          "Description": [
+            "Restores the animation when sonic does a running jump."
+          ],
+          "DisplayName": "Foot-Plant Jump Restore",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "DPadDisable",
+          "Description": [
+            "Disables moving with the D-pad."
+          ],
+          "DisplayName": "Disable D-Pad Movement",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "XHoming",
+          "Description": [
+            "Changes homing attack button to X instead of A."
+          ],
+          "DisplayName": "X Button Homing Attack",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": false
+        },
+        {
+          "Name": "Crawl",
+          "Description": [
+            "Adds back the crawl from the original game."
+          ],
+          "DisplayName": "Crawl Restore",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "Explosion",
+          "Description": [
+            "Adds back the explosion particles from the original game."
+          ],
+          "DisplayName": "Explosion Particles",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "PoleTrail",
+          "Description": [
+            "Adds back the trail after swinging from a pole in the original game."
+          ],
+          "DisplayName": "Pole Swing Trail",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "BoostRamp",
+          "Description": [
+            "Adds back the particle effect when boosting on a ramp from the original game."
+          ],
+          "DisplayName": "Boost Ramp Particles",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "Stumble",
+          "Description": [
+            "Makes the stumble loop until you touch the ground."
+          ],
+          "DisplayName": "Longer Stumble",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "Ramp",
+          "Description": [
+            "Makes the ramp animation when not boosting loop."
+          ],
+          "DisplayName": "Longer Ramp Animation",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "EnergyChange",
+          "Description": [
+            "Changes the amount of boost energy you get from rings and enemies."
+          ],
+          "DisplayName": "Ring Energy Changes",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "WaterIdle",
+          "Description": [
+            "Removes the weird idle animation when you're near water."
+          ],
+          "DisplayName": "Remove Water Idle",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "UpReel",
+          "Description": [
+            "Moves the player forward after exiting an up reel."
+          ],
+          "DisplayName": "Up Reel Fix",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "SweepKick",
+          "Description": [
+            "Adds back the sweepkick from the original game."
+          ],
+          "DisplayName": "Sweep Kick Restore",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        }
+      ]
+    },
+    {
+      "Name": "Changes",
+      "DisplayName": "Small Optional Changes",
+      "Elements": [
+        {
+          "Name": "MoreVoice",
+          "DisplayName": "More Voice Clips (Jason Griffith)",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": false
+        },
+        {
+          "Name": "InfLives",
+          "DisplayName": "99 Lives When 'Infinite Lives' Code Enabled",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": true
+        },
+        {
+          "Name": "DisableBoard",
+          "DisplayName": "Disable Board",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": false
+        },
+        {
+          "Name": "WiiFall",
+          "DisplayName": "Unleashed (Wii) Falling Animation",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": false
+        },
+        {
+          "Name": "SweepLight",
+          "DisplayName": "Sweep Kick Light",
+          "Type": "bool",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": false
+        }
+      ]
+    }
+  ],
+  "IniFile": "mod.ini"
+}
