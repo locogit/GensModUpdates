@@ -1,2 +1,5 @@
+add disk/bb3/#SonicSweepKick.ar.00
+add disk/bb3/#SonicSweepKick.arl
+add sur_sweepkick.ini
 add SURestorations.dll
 add mod.ini
