@@ -1,4 +1,2 @@
-add config.json
-add sur_sweepkick.ini
 add SURestorations.dll
 add mod.ini
