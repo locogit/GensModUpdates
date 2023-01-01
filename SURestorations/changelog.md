@@ -1,4 +1,8 @@
 ## SU Restorations v1.23
+- Edited Sweep Kick Particle (DEXTERITY)
+- Fixed Missing sur_sweepkick.ini File
+
+## SU Restorations v1.23
 - Bobsleigh Bug When Quitting Stage Should Be Fixed
 
 ## SU Restorations v1.22
