@@ -1,3 +1,6 @@
+## SU Restorations v1.23
+- Bobsleigh Bug When Quitting Stage Should Be Fixed
+
 ## SU Restorations v1.22
 - Added Minimum Paraloop Speed Check
 - Added Sweep Kick Light (sur_sweepkick.ini)
