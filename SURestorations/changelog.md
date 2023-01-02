@@ -1,4 +1,8 @@
-## SU Restorations v1.23
+## SU Restorations v1.25
+- Edited Sweep Kick Particle Again (DEXTERITY)
+- Hopefully Fixed Issue Where Game Crashes
+
+## SU Restorations v1.24
 - Edited Sweep Kick Particle (DEXTERITY)
 - Fixed Missing sur_sweepkick.ini File
 
