@@ -1,4 +1,4 @@
-## SU Restorations v1.25
+## SU Restorations v1.26
 - Added More Sweepkick Ini Options
 - Hopefully Fixed Widescreen Issue
 - Improved Crawl
