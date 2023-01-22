@@ -1,4 +1,9 @@
 ## SU Restorations v1.25
+- Added More Sweepkick Ini Options
+- Hopefully Fixed Widescreen Issue
+- Improved Crawl
+
+## SU Restorations v1.25
 - Edited Sweep Kick Particle Again (DEXTERITY)
 - Hopefully Fixed Issue Where Game Crashes
 
