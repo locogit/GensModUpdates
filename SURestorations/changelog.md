@@ -2,6 +2,7 @@
 - Added More Sweepkick Ini Options
 - Hopefully Fixed Widescreen Issue
 - Improved Crawl
+- Added Water Drifting
 
 ## SU Restorations v1.25
 - Edited Sweep Kick Particle Again (DEXTERITY)
