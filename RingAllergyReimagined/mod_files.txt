@@ -1,1 +1,2 @@
+add RingsReimagined.dll
 add mod.ini
