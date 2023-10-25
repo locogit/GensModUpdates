@@ -1,3 +1,7 @@
+## SU Restorations v2.0 PV
+- Mod Overhaul
+- Hopefully fixes crashes? idk man i don't like modding this game
+
 ## SU Restorations v1.26
 - Added More Sweepkick Ini Options
 - Hopefully Fixed Widescreen Issue
