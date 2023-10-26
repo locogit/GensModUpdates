@@ -1,3 +1,7 @@
+## SU Restorations v2.01 PV
+- Some Code Fixes (crashes still probably aren't fixed sorry)
+- If you see a dependency error when using the UP Addon, click ignore.
+
 ## SU Restorations v2.0 PV
 - Mod Overhaul
 - Hopefully fixes crashes? idk man i don't like modding this game
